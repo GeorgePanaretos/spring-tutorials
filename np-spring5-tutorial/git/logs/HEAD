@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 13264e635a3fb9e064ed5a2280e8c6a8b5ef4530 Georgios Panaretos <georgios.panaretos@profect.sk> 1602848435 +0200	commit (initial): hello world
+13264e635a3fb9e064ed5a2280e8c6a8b5ef4530 250b72020c2c3f97c535d9bf7886900f7de6a58a Georgios Panaretos <georgios.panaretos@profect.sk> 1602860754 +0200	commit: Mail Service created
+250b72020c2c3f97c535d9bf7886900f7de6a58a 9f731155b085066e60df015e52b387df939fd0fa Georgios Panaretos <georgios.panaretos@profect.sk> 1602861954 +0200	commit: Dependency Injection basics
+9f731155b085066e60df015e52b387df939fd0fa 367720e0833e4e794a9c8294592cd0c7de6209e8 Georgios Panaretos <georgios.panaretos@profect.sk> 1602970743 +0200	commit: Injecting Beans(Single)
+367720e0833e4e794a9c8294592cd0c7de6209e8 e0c1838731c7e49f6c210dd3bcb93412d0e93bf3 Georgios Panaretos <georgios.panaretos@profect.sk> 1602971531 +0200	commit: Multiple Bean Problem
+e0c1838731c7e49f6c210dd3bcb93412d0e93bf3 a959978e75d0f7bdf5cbd8ebbebce8616b94208b Georgios Panaretos <georgios.panaretos@profect.sk> 1602974918 +0200	commit: Configuaration Classes and Beans
+a959978e75d0f7bdf5cbd8ebbebce8616b94208b 3576bc999bd69398dabce140d16ce1f659ca7b71 Georgios Panaretos <georgios.panaretos@profect.sk> 1603011684 +0200	commit: Spring Profiles
+3576bc999bd69398dabce140d16ce1f659ca7b71 70af461816a9ab3c5d24816bc139af32e9b15b66 Georgios Panaretos <georgios.panaretos@profect.sk> 1603019213 +0200	commit: Sending SMTP Mails with JavaMesagging
+70af461816a9ab3c5d24816bc139af32e9b15b66 3e3f7e654a483bb4cb4ebfbcd06b3aa53f760207 Georgios Panaretos <georgios.panaretos@profect.sk> 1603021063 +0200	commit: Java Config Classes
