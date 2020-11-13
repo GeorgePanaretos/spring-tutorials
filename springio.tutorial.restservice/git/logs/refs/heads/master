@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 7e40bd5834fbab532025cacf613028b1d7d491e8 Georgios Panaretos <georgios.panaretos@profect.sk> 1603544129 +0300	commit (initial): Intial Commit(Port Change)
+7e40bd5834fbab532025cacf613028b1d7d491e8 e39d7934557fd27a27cf5bc0a24904bb7285ae5c Georgios Panaretos <georgios.panaretos@profect.sk> 1603615263 +0200	commit: The Story so Far…​ (JPA set up and data)
+e39d7934557fd27a27cf5bc0a24904bb7285ae5c b4e9918dddda0cadbc102d86f46cae243880ed61 Georgios Panaretos <georgios.panaretos@profect.sk> 1603615947 +0200	commit: HTTP requests (GET,POST,DELETE)
+b4e9918dddda0cadbc102d86f46cae243880ed61 da1d657ce9f99550bb6698df0ba866fd3c720ac8 Georgios Panaretos <georgios.panaretos@profect.sk> 1603619627 +0200	commit: EmployeeNotFoundException error
+da1d657ce9f99550bb6698df0ba866fd3c720ac8 64a887dae0625909313d637fd85c9ea56909119e Georgios Panaretos <georgios.panaretos@profect.sk> 1603633376 +0200	commit: Making better REST with hateoas
+64a887dae0625909313d637fd85c9ea56909119e 1bb67fe81374f722670c77700dccb849f8a296ee George Panaretos <georgepanaretos.cac@gmail.com> 1603813445 +0100	commit: Building additional links in the REST API
