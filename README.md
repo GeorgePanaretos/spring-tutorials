@@ -1,8 +1,7 @@
 # Spring Tutorials
 
-##Udemy Material
-##Spring.io
-#Guides
-#Tutorials
--Spring Tutorial Material
-https://github.com/GeorgePanaretos/spring-tutorials/tree/main/springio.tutorial.restservice
+## Udemy Material
+## Spring.io
+### Guides
+### Tutorials
+- [Building REST services with Spring](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/tutorials/springio.tutorial.restservice)
