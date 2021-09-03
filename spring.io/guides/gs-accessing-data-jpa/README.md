@@ -1,3 +1,3 @@
-#Spring Guides
+# Spring Guides
 
--[Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
