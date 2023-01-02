@@ -47,9 +47,6 @@ public class AccessingDataJpaApplication {
             repository.findByLastName("Bauer").forEach(bauer -> {
                 log.info(bauer.toString());
             });
-            // for (Customer bauer : repository.findByLastName("Bauer")) {
-            //  log.info(bauer.toString());
-            // }
             log.info("");
         };
     }
