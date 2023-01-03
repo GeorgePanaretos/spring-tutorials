@@ -7,7 +7,7 @@
 - [Building an Application with Spring Boot](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/guides/gs-spring-boot)
 - [Accessing Data with JPA](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/guides/gs-accessing-data-jpa)
 - [Accessing JPA Data with REST](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/guides/gs-accessing-data-rest)
-- [Accessing data with MySQL]()
+- [Accessing data with MySQL](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/guides/gs-accessing-data-mysql)
 -  TO DO [**_Securing a Web Application_**](https://spring.io/guides/gs/securing-web/)
 -  TO DO [**_Authenticating a User with LDAP_**](https://spring.io/guides/gs/authenticating-ldap/)
 -  TO DO [**_Spring Boot with Docker_**](https://spring.io/guides/gs/spring-boot-docker/)
