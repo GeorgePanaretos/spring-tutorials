@@ -4,7 +4,7 @@
 - [Spring Framework And Dependency Injection For Beginners](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/np-spring5-tutorial)
 ## Spring.io
 ### Guides
-- [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
+- [Building an Application with Spring Boot](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/guides/gs-spring-boot)
 - [Accessing Data with JPA](https://github.com/GeorgePanaretos/spring-tutorials/tree/main/spring.io/guides/gs-accessing-data-jpa)
 -  TO DO [**_Securing a Web Application_**](https://spring.io/guides/gs/securing-web/)
 -  TO DO [**_Authenticating a User with LDAP_**](https://spring.io/guides/gs/authenticating-ldap/)
